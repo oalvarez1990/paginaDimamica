@@ -1,0 +1,27 @@
+[
+    {
+      "nombre": "La casa China",
+      "descripcion": "Esta es una entidad de ejemplo",
+      "direccion": "123 Calle Principal",
+      "imagen": "./image/1restaurante.jpg"
+    },
+    {
+      "nombre": "El Sazon paisa",
+      "descripcion": "Esta es una entidad de ejemplo",
+      "direccion": "123 Calle Principal",
+      "imagen": "../../public/1restaurante.jpg"
+    },
+    {
+      "nombre": "Andres carnes",
+      "descripcion": "Esta es una entidad de ejemplo",
+      "direccion": "123 Calle Principal",
+      "imagen": "../../public/1restaurante.jpg"
+    },
+    {
+      "nombre": "Don Jediondo",
+      "descripcion": "Esta es una entidad de ejemplo",
+      "direccion": "123 Calle Principal",
+      "imagen": "../../public/1restaurante.jpg"
+    }
+  ]
+  
